@@ -1,0 +1,5 @@
+{
+    "open": "Open",
+    "setup": "Setup",
+    "setupNotOwner": "You can't setup this group because you do not own it!"
+}
