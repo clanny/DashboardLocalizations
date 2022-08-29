@@ -1,4 +1,7 @@
 {
     "logout": "Logout",
-    "groups": "Groups"
+    "groups": "Groups",
+    "groupHome": "Group Home",
+    "groupRanks": "Group Ranks",
+    "groupMedals": "Group Medals"
 }

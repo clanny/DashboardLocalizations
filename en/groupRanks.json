@@ -1,0 +1,17 @@
+{
+    "field_rankName": "Rank name",
+    "field_unlocked": "Autopromotion enabled",
+    "field_xpRequirement": "XP requirement",
+    "field_permissionLevel": "Permission level",
+    "field_rankNumber": "Rank number",
+    "field_rankID": "Rank ID",
+    "field_edit": "Edit",
+    "value_locked": "Disabled",
+    "value_unlocked": "Enabled",
+    "warning_xpRankLocked": "Users will not be promoted or demoted from or to this rank",
+    "warning_xpRankOfficer": "Officers will be able to promote other users to this rank by giving XP. Ranks with Officer permissions having autopromotion enabled is not advised",
+    "warning_xpRankHICOMPlus": "Ranks with autopromotion enabled should never have HICOM+ permissions",
+    "warning_rank0Unlocked": "The guest rank should not have autopromotion enabled",
+    "editTitle": "Edit {{RANK}}",
+    "save": "Save"
+}

@@ -1,0 +1,14 @@
+{
+    "custom": "Custom",
+    "emoji": "Emoji",
+    "name": "Name",
+    "description": "Description",
+    "id": "ID",
+    "edit": "Edit",
+    "pickEmoji": "Pick Emoji",
+    "editTitle": "Edit {{MEDAL}}",
+    "createTitle": "Create new medal",
+    "create": "Create",
+    "save": "Save",
+    "createNew": "Create new medal"
+}
