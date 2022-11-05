@@ -1,0 +1,10 @@
+{
+    "field_id": "ID",
+    "actions": "Actions",
+    "action": "Action",
+    "delete": "Delete",
+    "createNewKey": "Create New API Key",
+    "newAPIKey": "Here is your new API Key, DO NOT SHARE!",
+    "newAPIKeyKEY": "The API Key:",
+    "newAPIKeyID": "The API Key ID:"
+}
