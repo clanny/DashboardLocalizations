@@ -5,6 +5,7 @@
     "description": "Description",
     "id": "ID",
     "edit": "Edit",
+    "delete": "Delete",
     "pickEmoji": "Pick Emoji",
     "editTitle": "Edit {{MEDAL}}",
     "createTitle": "Create new medal",
